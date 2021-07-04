@@ -1,6 +1,7 @@
 .wrapper {
   display: flex;
 }
+
 .side-bar {
   background-color: #253141;
   width: 300px;
@@ -47,7 +48,7 @@
 }
 
 .chat {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   width: calc(100vw - 300px);
 }
 .chat-header {
